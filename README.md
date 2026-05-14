@@ -1,1 +1,2 @@
-# 2024-2025
+# SEM1
+school projects as 1st year student 
